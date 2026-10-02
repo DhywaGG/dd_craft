@@ -1,0 +1,346 @@
+{
+    "86295411": [
+        {
+            "amount": 5,
+            "craft_time": 10,
+            "recipe": [
+                {
+                    "amount": 640,
+                    "label": "steel",
+                    "removable": false,
+                    "item": "steel"
+                },
+                {
+                    "amount": 355,
+                    "label": "aluminum",
+                    "removable": false,
+                    "item": "aluminum"
+                }
+            ],
+            "label": "Armor",
+            "item": "armour"
+        },
+        {
+            "amount": 5,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 500,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "Lockpick",
+            "item": "lockpick"
+        },
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 300,
+                    "label": "steel",
+                    "removable": false,
+                    "item": "steel"
+                },
+                {
+                    "amount": 450,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "Supressor C3",
+            "item": "at_suppressor_heavy"
+        },
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 562,
+                    "label": "aluminum",
+                    "removable": false,
+                    "item": "aluminum"
+                }
+            ],
+            "label": "Grip C3",
+            "item": "at_grip"
+        },
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 1000,
+                    "label": "steel",
+                    "removable": false,
+                    "item": "steel"
+                }
+            ],
+            "label": "ClipEXT C3",
+            "item": "at_clip_extended_rifle"
+        },
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 450,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "Scope C3",
+            "item": "at_scope_medium"
+        }
+    ],
+    "04655402": [
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 100,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "Ceramic C1",
+            "item": "WEAPON_CERAMICPISTOL"
+        },
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 150,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "Double Action C1",
+            "item": "WEAPON_DOUBLEACTION"
+        },
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 200,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "Revolver MK2 C1",
+            "item": "WEAPON_REVOLVER_MK2"
+        },
+        {
+            "amount": 1,
+            "craft_time": 10,
+            "recipe": [
+                {
+                    "amount": 500,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "SMG MK2 C2",
+            "item": "WEAPON_SMG_MK2"
+        },
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 525,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "Micro SMG C2",
+            "item": "WEAPON_MICROSMG"
+        },
+        {
+            "amount": 1,
+            "craft_time": 10,
+            "recipe": [
+                {
+                    "amount": 500,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "Thompson C2",
+            "item": "WEAPON_GUSENBERG"
+        },
+        {
+            "amount": 1,
+            "craft_time": 20,
+            "recipe": [
+                {
+                    "amount": 650,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "SpecialCarbine C3",
+            "item": "WEAPON_SPECIALCARBINE_MK2"
+        },
+        {
+            "amount": 1,
+            "craft_time": 20,
+            "recipe": [
+                {
+                    "amount": 670,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "AssaultRifle C3",
+            "item": "WEAPON_ASSAULTRIFLE_MK2"
+        },
+        {
+            "amount": 1,
+            "craft_time": 10,
+            "recipe": [
+                {
+                    "amount": 560,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                }
+            ],
+            "label": "AdvancedRifle C3 ",
+            "item": "WEAPON_ADVANCEDRIFLE"
+        },
+        {
+            "amount": 1,
+            "craft_time": 35,
+            "recipe": [
+                {
+                    "amount": 500,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                },
+                {
+                    "amount": 450,
+                    "label": "steel",
+                    "removable": false,
+                    "item": "steel"
+                }
+            ],
+            "label": "Sniper C3",
+            "item": "WEAPON_HEAVYSNIPER"
+        },
+        {
+            "amount": 1,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 150,
+                    "label": "scrapmetal",
+                    "removable": false,
+                    "item": "scrapmetal"
+                },
+                {
+                    "amount": 530,
+                    "label": "steel",
+                    "removable": false,
+                    "item": "steel"
+                },
+                {
+                    "amount": 346,
+                    "label": "Aluminum",
+                    "removable": false,
+                    "item": "aluminum"
+                }
+            ],
+            "label": "TacticalRifle C3 (HT ONLY)",
+            "item": "WEAPON_TACTICALRIFLE"
+        }
+    ],
+    "78004063": [
+        {
+            "amount": 100,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 100,
+                    "item": "scrapmetal",
+                    "removable": true,
+                    "label": "scrapmetal"
+                }
+            ],
+            "label": "ammo-rifle",
+            "item": "ammo-rifle"
+        },
+        {
+            "amount": 100,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 100,
+                    "item": "scrapmetal",
+                    "removable": true,
+                    "label": "scrapmetal"
+                }
+            ],
+            "label": "ammo-9",
+            "item": "ammo-9"
+        },
+        {
+            "amount": 100,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 100,
+                    "item": "scrapmetal",
+                    "removable": true,
+                    "label": "scrapmetal"
+                }
+            ],
+            "label": "ammo-50",
+            "item": "ammo-50"
+        },
+        {
+            "amount": 100,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 100,
+                    "item": "scrapmetal",
+                    "removable": true,
+                    "label": "scrapmetal"
+                }
+            ],
+            "label": "ammo-38",
+            "item": "ammo-38"
+        },
+        {
+            "amount": 100,
+            "craft_time": 5,
+            "recipe": [
+                {
+                    "amount": 100,
+                    "item": "scrapmetal",
+                    "removable": true,
+                    "label": "scrapmetal"
+                }
+            ],
+            "label": "ammo-rifle2",
+            "item": "ammo-rifle2"
+        }
+    ]
+}
