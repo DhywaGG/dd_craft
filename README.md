@@ -5,7 +5,7 @@
 Download the `dd-library` from GitHub and ensure it is started before the `dd-crafting` resource.
 
 1. **Download dd-library**:  
-   Download the library from the [GitHub repository](https://github.com/quantumdevelopment69/dd-library).
+   Download the library from the [GitHub repository]([https://github.com/DhywaGG/dd-library]).
    
 2. **Start the library**:  
    Ensure that the `dd-library` resource is started before the `dd-crafting-v2` resource in your `server.cfg`.
